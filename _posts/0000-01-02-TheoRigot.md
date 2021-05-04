@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Le souvenir c'est la présence invisble
 Use the left arrow to go back!
